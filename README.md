@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Aaron 👋
 
-<!--
-**m4g1t0/m4g1t0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creo apps, herramientas y proyectos con IA local.
 
-Here are some ideas to get you started:
+Normalmente empiezo construyendo cosas que me resultan útiles a mí: para resolver un problema, automatizar algo o simplemente hacer una herramienta como creo que debería existir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si funciona y puede ser útil para alguien más, la comparto con el mundo.
+
+## Proyectos
+
+### Apps
+Aplicaciones sencillas, centradas en hacer bien una función concreta.
+
+### Herramientas
+Utilidades para automatización, organización y flujos de trabajo personales.
+
+### IA local
+Proyectos con modelos locales, agentes, automatización y generación de contenido.
+
+## Actualmente
+
+Construyendo nuevos proyectos para macOS, web e IA local.
+
+---
+
+🇪🇸 España
