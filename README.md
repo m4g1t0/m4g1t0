@@ -8,7 +8,7 @@ Si el resultado funciona y puede ser útil para alguien más, lo pulo y lo compa
 
 ## 🛠️ Tecnologías & Enfoque
 
-- **IA local & agentes:** Qwen, Hermes, MLX, RAG y automatización mediante agentes.
+- **IA local & agentes:** Qwen local servido por LM Studio y dos Codex independientes (CEO con GPT planifica, Herrero con Qwen local implementa) coordinados por Spec Kit.
 - **Desarrollo:** Swift, SwiftUI, macOS, desarrollo web y scripting con Python.
 - **Filosofía:** software sencillo, ligero y centrado en una función concreta.
 - **Privacidad:** procesamiento local siempre que tenga sentido, evitando dependencias y servicios externos innecesarios.
@@ -17,9 +17,15 @@ Si el resultado funciona y puede ser útil para alguien más, lo pulo y lo compa
 ## ⚡ Actualmente
 
 - 🔨 Creando nuevas apps para **macOS** y herramientas web.
-- 🧠 Construyendo flujos de trabajo con **IA local y agentes**.
+- 🧠 Documentando el montaje [CEO & Herrero](https://m4g1t0.github.io/): dos Codex, un mismo taller.
 - 🧪 Experimentando con automatización y herramientas que mejoren mi propio día a día.
 - 🇪🇸 España
+
+## 📖 Documentación del montaje
+
+- [Web CEO & Herrero](https://m4g1t0.github.io/) — portada y explicación de la arquitectura.
+- [Guía humana](https://m4g1t0.github.io/guia-humana/) — paso a paso para montarlo en tu Mac.
+- [Encargo para una IA](https://m4g1t0.github.io/guia-ia/) — brief autocontenido para que tu IA lo monte.
 
 ## 📬 Contacto
 
